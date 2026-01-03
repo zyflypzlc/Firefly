@@ -20,9 +20,13 @@ export const siteConfig: SiteConfig = {
 		"良辰美景，奈何天上有，云淡风轻，日暮不归山。“
 	// 站点关键词
 	keywords: [
+		"Firefly",
 		"Fuwari",
 		"Astro",
-		"博客"
+		"ACGN",
+		"博客",
+		"旅行博客",
+		"凉城听暖的知识库",
 	],
 
 	// 主题色
