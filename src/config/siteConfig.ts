@@ -22,7 +22,7 @@ export const siteConfig: SiteConfig = {
 	keywords: [
 		"Fuwari",
 		"Astro",
-		"博客",
+		"博客"
 	],
 
 	// 主题色
