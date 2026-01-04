@@ -8,9 +8,9 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 	// 背景图片配置
 	src: {
 		// 桌面背景图片
-		desktop: "/assets/images/7407-2020-11-18110456-1605668696794.png",
+		desktop: "/assets/images/d1.webp",
 		// 移动背景图片
-		mobile: "/assets/images/novelai-1666603872145-gigapixel-scale-6_00x.png",
+		mobile: "/assets/images/m1.webp",
 	},
 	// Banner模式特有配置
 	banner: {
@@ -51,9 +51,9 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 		credit: {
 			enable: {
 				// 桌面端显示横幅图片来源文本
-				desktop: false,
+				desktop: true,
 				// 移动端显示横幅图片来源文本
-				mobile: false,
+				mobile: true,
 			},
 			text: {
 				// 桌面端要显示的来源文本
