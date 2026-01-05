@@ -8,9 +8,9 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 	// 背景图片配置
 	src: {
 		// 桌面背景图片
-		desktop: "/assets/images/d1.webp",
+		desktop: "/assets/images/D1.png",
 		// 移动背景图片
-		mobile: "/assets/images/m1.webp",
+		mobile: "/assets/images/M1.png",
 	},
 	// Banner模式特有配置
 	banner: {
@@ -24,15 +24,19 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 是否启用主页横幅文字
 			enable: true,
 			// 主页横幅主标题
-			title: "Lovely firefly!",
+			title: "Ciallo～(∠・ω＜)⌒★",
 			// 主页横幅副标题
 			subtitle: [
-				"In Reddened Chrysalis, I Once Rest",
-				"From Shattered Sky, I Free Fall",
-				"Amidst Silenced Stars, I Deep Sleep",
-				"Upon Lighted Fyrefly, I Soon Gaze",
-				"From Undreamt Night, I Thence Shine",
-				"In Finalized Morrow, I Full Bloom",
+				"我欲乘风归去，又恐Ciallo～(∠・ω< )⌒★玉宇",
+				"欲穷千里目，更上一ciallo～(∠・ω< )⌒☆",
+				"问君能有几多愁，cia似一江春水向东llo～(∠・ω< )⌒☆",
+				"昔人已cia黄鹤去，此地空余黄鹤llo～(∠・ω< )⌒☆",
+				"枯藤老树人家，小cia llo～(∠・ω< )⌒☆水人家",
+				"青青子衿悠悠我心但为君故cia llo～(∠・ω< )⌒☆至今",
+				"黄沙百战cia金甲，不破llo～(∠・ω< )⌒☆兰终不还",
+				"朝cia白帝cia云间，千里江llo～(∠・ω< )⌒☆一日还",
+				"桃花潭水深cia尺，不及汪llo～(∠・ω< )⌒☆送我情",
+				"一点寒芒先到，随后Cia出如llo～(∠・ω< )⌒☆",
 			],
 			typewriter: {
 				// 是否启用打字机效果
@@ -51,9 +55,9 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 		credit: {
 			enable: {
 				// 桌面端显示横幅图片来源文本
-				desktop: true,
+				desktop: false,
 				// 移动端显示横幅图片来源文本
-				mobile: true,
+				mobile: false,
 			},
 			text: {
 				// 桌面端要显示的来源文本
