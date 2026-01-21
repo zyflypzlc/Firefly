@@ -13,7 +13,7 @@ description: "与优秀的朋友们一起成长"
 站点名称: lctn blog
 站点描述: 良辰美景，奈何天上有，云淡风轻，日暮不归山。
 站点链接: https://blog.lctn.site
-头像链接: https://q1.qlogo.cn/g?b=qq&nk=7618557&s=640
+头像链接: https://raw.githubusercontent.com/zyflypzlc/Firefly/refs/heads/master/public/assets/images/avatar.jpg
 
 ```
 
@@ -46,3 +46,4 @@ description: "与优秀的朋友们一起成长"
    - 网站有持续的内容更新，不是废弃站点
    - 网站支持HTTPS访问
    - 网站以原创内容为主，非纯采集站
+
