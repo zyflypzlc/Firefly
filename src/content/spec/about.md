@@ -28,8 +28,8 @@ Ciallo～，我是 **凉城听暖**。你们问我为什么学医？ 因为我�
 
 如果你想和我交流技术问题，分享有趣的想法，或者只是想打个招呼，欢迎通过以下方式联系我：
 
-- 💻 **GitHub**: [CuteLeaf](https://github.com/zyflypzlc)
-- ✉️ **Email**: [xiaye@msn.com](zyflypzlc@outlook.com)
+- 💻 **GitHub**: [zyflypzlc](https://github.com/zyflypzlc)
+- ✉️ **Email**: [zyflypzlc@outlook.com](zyflypzlc@outlook.com)
 
 ---
 
