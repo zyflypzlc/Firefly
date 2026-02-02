@@ -4,7 +4,7 @@ title: 麻醉·LC
 published: 2026-01-09  
 pinned: false  
 description: 麻醉学笔记&腹腔镜下胆囊切除术的麻醉管理。  
-tags: [临床麻醉]  
+tags: [临床麻醉, 腹腔镜手术]  
 category: 麻醉学习笔记  
 licenseName: "CC BY 4.0"  
 author: 凉城听暖  
@@ -107,5 +107,6 @@ pubDate: 2026-01-09
 
 
 ---
+
 
 > 保持空杯心态，质疑探索，学习才能打破认知边界。
