@@ -3,7 +3,7 @@ title: 麻醉·COPD患者的麻醉
 published: 2026-01-22  
 pinned: false  
 description: 麻醉学笔记&慢性阻塞性肺疾病患者非肺部手术的麻醉。  
-tags: [临床麻醉, COPD, 围术期管理]  
+tags: [临床麻醉, 气道管理, 围术期管理]  
 category: 麻醉学习笔记  
 licenseName: "CC BY 4.0"  
 author: 凉城听暖  
