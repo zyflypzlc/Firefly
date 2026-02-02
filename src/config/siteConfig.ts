@@ -21,13 +21,12 @@ export const siteConfig: SiteConfig = {
 
 	// 站点关键词
 	keywords: [
-		"Firefly",
-		"Fuwari",
-		"Astro",
-		"ACGN",
-		"博客",
+		"个人博客",
+		"麻醉学",
 		"技术博客",
 		"静态博客",
+		"Astro",
+		"Fuwari",
 	],
 
 	// 主题色
@@ -136,6 +135,7 @@ export const siteConfig: SiteConfig = {
 	// 站点语言，在本配置文件顶部SITE_LANG定义
 	lang: SITE_LANG,
 };
+
 
 
 
