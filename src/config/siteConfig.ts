@@ -7,10 +7,10 @@ const SITE_LANG = "zh_CN";
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "lctn blog",
+	title: "凉城听暖",
 
 	// 站点副标题
-	subtitle: "",
+	subtitle: "凉城听暖の小窝",
 
 	// 站点 URL
 	site_url: "https://blog.lctn.site",
@@ -136,5 +136,6 @@ export const siteConfig: SiteConfig = {
 	// 站点语言，在本配置文件顶部SITE_LANG定义
 	lang: SITE_LANG,
 };
+
 
 
