@@ -20,12 +20,29 @@ export const friendsConfig: FriendLink[] = [
 		enabled: true, // 是否启用
 	},
 	{
+		title: "小白のblog",
+		imgurl: "https://r2cfimg.showby.top/2024/09/19/66eb06a884fb9.jpg",
+		desc: "Ciallo～(∠・ω< )⌒☆",
+		siteurl: "https://www.showby.top/",
+		tags: ["Blog"],
+		weight: 10,
+		enabled: true,
+	},{
+		title: "Rownix's Blog",
+		imgurl: "https://xapi.rownix.dev/8bec399a8d697bf4db49df6073b263795760a2a9.jpg",
+		desc: "活着就是为了改变世界，难道还有其他原因吗？",
+		siteurl: "https://www.rownix.dev/",
+		tags: ["Blog"],
+		weight: 10,
+		enabled: true,
+	},
+	{
 		title: "Firefly Docs",
 		imgurl: "https://docs-firefly.cuteleaf.cn/logo.png",
 		desc: "Firefly主题模板文档",
 		siteurl: "https://docs-firefly.cuteleaf.cn",
 		tags: ["Docs"],
-		weight: 9,
+		weight: 8,
 		enabled: true,
 	},
 	{
