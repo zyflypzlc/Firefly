@@ -64,7 +64,7 @@ export const siteConfig: SiteConfig = {
 			alt: "",
 		},
 		// 导航栏标题
-		title: "lctn",
+		title: "凉城听暖の小窝",
 		// 全宽导航栏，导航栏是否占满屏幕宽度，true：占满，false：不占满
 		widthFull: false,
 		// 导航栏图标和标题是否跟随主题色
@@ -135,6 +135,7 @@ export const siteConfig: SiteConfig = {
 	// 站点语言，在本配置文件顶部SITE_LANG定义
 	lang: SITE_LANG,
 };
+
 
 
 
