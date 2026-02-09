@@ -27,11 +27,30 @@ export const friendsConfig: FriendLink[] = [
 		tags: ["Blog"],
 		weight: 10,
 		enabled: true,
-	},{
+	},
+	{
 		title: "Rownix's Blog",
 		imgurl: "https://xapi.rownix.dev/8bec399a8d697bf4db49df6073b263795760a2a9.jpg",
 		desc: "活着就是为了改变世界，难道还有其他原因吗？",
 		siteurl: "https://www.rownix.dev/",
+		tags: ["Blog"],
+		weight: 10,
+		enabled: true,
+	},
+	{
+		title: "Geekertao blog",
+		imgurl: "https://obj.geekertao.top/geekertao.jpg",
+		desc: "不为梦想本身奋斗。为那个提出梦想的自己。",
+		siteurl: "https://www.geekertao.com/",
+		tags: ["Blog"],
+		weight: 10,
+		enabled: true,
+	},
+	{
+		title: "AcoFork Blog",
+		imgurl: "https://q2.qlogo.cn/headimg_dl?dst_uin=2726730791&spec=0",
+		desc: "树树的博客，基于Astro搭建",
+		siteurl: "https://blog.acofork.com/",
 		tags: ["Blog"],
 		weight: 10,
 		enabled: true,
@@ -62,3 +81,4 @@ export const getEnabledFriends = (): FriendLink[] => {
 		.filter((friend) => friend.enabled)
 		.sort((a, b) => b.weight - a.weight);
 };
+
