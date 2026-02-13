@@ -56,6 +56,15 @@ export const friendsConfig: FriendLink[] = [
 		enabled: true,
 	},
 	{
+		title: "明月清风的博客",
+		imgurl: "https://q2.qlogo.cn/headimg_dl?dst_uin=3585367299&spec=0",
+		desc: "爱整活，爱生活，这里是明月清风的个人博客。",
+		siteurl: "https://blog.070219.xyz/",
+		tags: ["Blog"],
+		weight: 10,
+		enabled: true,
+	},
+	{
 		title: "Firefly Docs",
 		imgurl: "https://docs-firefly.cuteleaf.cn/logo.png",
 		desc: "Firefly主题模板文档",
@@ -81,4 +90,5 @@ export const getEnabledFriends = (): FriendLink[] => {
 		.filter((friend) => friend.enabled)
 		.sort((a, b) => b.weight - a.weight);
 };
+
 
